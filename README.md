@@ -10,50 +10,50 @@ This repository contains **18 files** (including overview) with **50+ algorithms
 
 ```
 DSA_Python/
-├── 000_repository_overview.py       📊 Complete repository guide
-├── 001_arrays_basic_operations.py   📈 Array fundamentals & operations
-├── 002_arrays_searching.py          🔍 Search algorithms implementation
-├── 003_arrays_sorting.py            📊 Sorting algorithms with analysis
-├── 004_singly_linked_list.py       🔗 Singly linked list implementation
-├── 005_doubly_linked_list.py       ↔️ Doubly linked list implementation
-├── 006_circular_linked_list.py     🔄 Circular linked list variants
-├── 007_stack_implementation.py     📚 Stack with multiple approaches
-├── 008_queue_implementation.py     🎯 Queue variants and applications
-├── 009_deque_implementation.py     ↕️ Double-ended queue implementation
-├── 010_binary_tree.py              🌳 Binary tree fundamentals
-├── 011_binary_search_tree.py       🔍 BST with complete operations
-├── 012_tree_traversals.py          🚶 Comprehensive tree traversals
-├── 013_avl_tree.py                 ⚖️ Self-balancing AVL tree
-├── 014_hash_table_implementation.py 🗝️ Hash tables with collision handling
-├── 015_heap_implementation.py       ⛰️ Min/max heaps and applications
-├── 016_graph_implementation.py      🕸️ Graph representations & algorithms
-└── 017_dynamic_programming.py      🧠 Classic DP problems & techniques
+├── 00_repository_overview.py       📊 Complete repository guide
+├── 01_arrays_basic_operations.py   📈 Array fundamentals & operations
+├── 02_arrays_searching.py          🔍 Search algorithms implementation
+├── 03_arrays_sorting.py            📊 Sorting algorithms with analysis
+├── 04_singly_linked_list.py       🔗 Singly linked list implementation
+├── 05_doubly_linked_list.py       ↔️ Doubly linked list implementation
+├── 06_circular_linked_list.py     🔄 Circular linked list variants
+├── 07_stack_implementation.py     📚 Stack with multiple approaches
+├── 08_queue_implementation.py     🎯 Queue variants and applications
+├── 09_deque_implementation.py     ↕️ Double-ended queue implementation
+├── 10_binary_tree.py              🌳 Binary tree fundamentals
+├── 11_binary_search_tree.py       🔍 BST with complete operations
+├── 12_tree_traversals.py          🚶 Comprehensive tree traversals
+├── 13_avl_tree.py                 ⚖️ Self-balancing AVL tree
+├── 14_hash_table_implementation.py 🗝️ Hash tables with collision handling
+├── 15_heap_implementation.py       ⛰️ Min/max heaps and applications
+├── 16_graph_implementation.py      🕸️ Graph representations & algorithms
+└── 17_dynamic_programming.py      🧠 Classic DP problems & techniques
 ```
 
 ## 🎯 Learning Path
 
 ### Phase 1: Foundation (Weeks 1-2)
-- **001-003**: Arrays, Searching, Sorting
+- **01-03**: Arrays, Searching, Sorting
 - Build understanding of basic operations and algorithm analysis
 
 ### Phase 2: Linear Structures (Weeks 3-4)
-- **004-009**: Linked Lists, Stacks, Queues, Deques
+- **04-09**: Linked Lists, Stacks, Queues, Deques
 - Master pointer manipulation and linear data structure operations
 
 ### Phase 3: Tree Structures (Weeks 5-6)
-- **010-013**: Binary Trees, BST, Traversals, AVL Trees
+- **10-13**: Binary Trees, BST, Traversals, AVL Trees
 - Understand hierarchical data organization and tree algorithms
 
 ### Phase 4: Advanced Structures (Week 7)
-- **014-015**: Hash Tables, Heaps
+- **14-15**: Hash Tables, Heaps
 - Learn about efficient data access and priority-based operations
 
 ### Phase 5: Graph Theory (Week 8)
-- **016**: Graph representations and algorithms
+- **16**: Graph representations and algorithms
 - Master complex relationship modeling and graph traversals
 
 ### Phase 6: Optimization (Weeks 9-10)
-- **017**: Dynamic Programming
+- **17**: Dynamic Programming
 - Develop optimization thinking and problem-solving patterns
 
 ## 🔥 Key Features
@@ -119,12 +119,12 @@ DSA_Python/
 2. **Navigate** to the DSA_Python directory
 3. **Start with the overview**:
    ```bash
-   python 000_repository_overview.py
+   python 00_repository_overview.py
    ```
 4. **Follow the numbered sequence**:
    ```bash
-   python 001_arrays_basic_operations.py
-   python 002_arrays_searching.py
+   python 01_arrays_basic_operations.py
+   python 02_arrays_searching.py
    # ... continue with remaining files
    ```
 
@@ -248,54 +248,53 @@ Happy Learning! 🎓✨
 
 ---
 
-*Last Updated: 2024 | Total Lines of Code: 5000+ | Algorithms Implemented: 50+* - Data Structures and Algorithms
 
 A comprehensive collection of basic Data Structures and Algorithms implementations in Python, organized in a logical learning sequence.
 
 ## Learning Path
 
 ### Arrays and Basic Operations
-- `001_arrays_basic_operations.py` - Array creation, insertion, deletion, traversal
-- `002_arrays_searching.py` - Linear and Binary Search
-- `003_arrays_sorting.py` - Bubble, Selection, Insertion, Merge, Quick Sort
+- `01_arrays_basic_operations.py` - Array creation, insertion, deletion, traversal
+- `02_arrays_searching.py` - Linear and Binary Search
+- `03_arrays_sorting.py` - Bubble, Selection, Insertion, Merge, Quick Sort
 
 ### Linked Lists
-- `004_singly_linked_list.py` - Basic singly linked list implementation
-- `005_doubly_linked_list.py` - Doubly linked list implementation
-- `006_circular_linked_list.py` - Circular linked list implementation
+- `04_singly_linked_list.py` - Basic singly linked list implementation
+- `05_doubly_linked_list.py` - Doubly linked list implementation
+- `06_circular_linked_list.py` - Circular linked list implementation
 
 ### Stacks and Queues
-- `007_stack_implementation.py` - Stack using array and linked list
-- `008_queue_implementation.py` - Queue using array and linked list
-- `009_deque_implementation.py` - Double-ended queue implementation
+- `07_stack_implementation.py` - Stack using array and linked list
+- `08_queue_implementation.py` - Queue using array and linked list
+- `09_deque_implementation.py` - Double-ended queue implementation
 
 ### Trees
-- `010_binary_tree.py` - Basic binary tree implementation
-- `011_binary_search_tree.py` - BST operations (insert, delete, search)
-- `012_tree_traversals.py` - In-order, Pre-order, Post-order, Level-order
-- `013_avl_tree.py` - Self-balancing AVL tree
+- `10_binary_tree.py` - Basic binary tree implementation
+- `11_binary_search_tree.py` - BST operations (insert, delete, search)
+- `12_tree_traversals.py` - In-order, Pre-order, Post-order, Level-order
+- `13_avl_tree.py` - Self-balancing AVL tree
 
 ### Hash Tables
-- `014_hash_table_implementation.py` - Basic hash table with collision handling
-- `015_hash_functions.py` - Different hash function implementations
+- `14_hash_table_implementation.py` - Basic hash table with collision handling
+- `15_hash_functions.py` - Different hash function implementations
 
 ### Graphs
-- `016_graph_adjacency_list.py` - Graph representation using adjacency list
-- `017_graph_adjacency_matrix.py` - Graph representation using adjacency matrix
-- `018_graph_traversals.py` - BFS and DFS traversals
-- `019_graph_algorithms.py` - Dijkstra, Bellman-Ford, Floyd-Warshall
+- `16_graph_adjacency_list.py` - Graph representation using adjacency list
+- `17_graph_adjacency_matrix.py` - Graph representation using adjacency matrix
+- `18_graph_traversals.py` - BFS and DFS traversals
+- `19_graph_algorithms.py` - Dijkstra, Bellman-Ford, Floyd-Warshall
 
 ### Dynamic Programming
-- `020_dp_fibonacci.py` - Fibonacci using DP (memoization and tabulation)
-- `021_dp_knapsack.py` - 0/1 Knapsack problem
-- `022_dp_longest_common_subsequence.py` - LCS problem
-- `023_dp_coin_change.py` - Coin change problem
-- `024_dp_edit_distance.py` - Edit distance problem
+- `20_dp_fibonacci.py` - Fibonacci using DP (memoization and tabulation)
+- `21_dp_knapsack.py` - 0/1 Knapsack problem
+- `22_dp_longest_common_subsequence.py` - LCS problem
+- `23_dp_coin_change.py` - Coin change problem
+- `24_dp_edit_distance.py` - Edit distance problem
 
 ### Advanced Data Structures
-- `025_heap_implementation.py` - Min and Max heap implementation
-- `026_trie_implementation.py` - Trie (Prefix Tree) implementation
-- `027_union_find.py` - Disjoint Set Union (Union-Find) implementation
+- `25_heap_implementation.py` - Min and Max heap implementation
+- `26_trie_implementation.py` - Trie (Prefix Tree) implementation
+- `27_union_find.py` - Disjoint Set Union (Union-Find) implementation
 
 ## How to Use
 
@@ -308,7 +307,7 @@ Each file contains:
 ## Running the Code
 
 ```bash
-python 001_arrays_basic_operations.py
+python 01_arrays_basic_operations.py
 ```
 
 Each file can be run independently and includes test cases to verify the implementation.
