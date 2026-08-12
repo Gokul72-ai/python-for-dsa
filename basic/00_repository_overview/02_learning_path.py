@@ -1,5 +1,5 @@
 """
-002 - Learning Path Guide
+02 - Learning Path Guide
 =========================
 
 Recommended learning sequence for mastering data structures and algorithms.
@@ -14,7 +14,7 @@ def print_learning_path():
 RECOMMENDED LEARNING PATH:
 =========================
 
-Phase 1: FUNDAMENTALS (001-003)
+Phase 1: FUNDAMENTALS (01-03)
 ------------------------------
 1. Arrays Basic Operations
    - Array class and basic operations
@@ -31,7 +31,7 @@ Phase 1: FUNDAMENTALS (001-003)
    - Efficient sorts: merge, quick, heap
    - Comparison and analysis
 
-Phase 2: LINKED STRUCTURES (004-006)
+Phase 2: LINKED STRUCTURES (04-06)
 -----------------------------------
 4. Singly Linked List
    - Node structure and basic operations
@@ -47,7 +47,7 @@ Phase 2: LINKED STRUCTURES (004-006)
    - Circular structure benefits
    - Applications in real-world problems
 
-Phase 3: STACK & QUEUE (007-009)
+Phase 3: STACK & QUEUE (07-09)
 --------------------------------
 7. Stack Implementation
    - Array-based and linked implementations
@@ -64,7 +64,7 @@ Phase 3: STACK & QUEUE (007-009)
    - Sliding window applications
    - Optimization techniques
 
-Phase 4: TREE STRUCTURES (010-013)
+Phase 4: TREE STRUCTURES (10-13)
 ----------------------------------
 10. Binary Tree
     - Tree terminology and properties
@@ -86,7 +86,7 @@ Phase 4: TREE STRUCTURES (010-013)
     - Rotation operations
     - Maintaining balance factor
 
-Phase 5: ADVANCED STRUCTURES (014-017)
+Phase 5: ADVANCED STRUCTURES (14-17)
 --------------------------------------
 14. Hash Table
     - Hash function design
